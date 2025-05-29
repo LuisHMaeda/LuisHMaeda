@@ -6,7 +6,7 @@
 ### 🛠️ Tools
 
 - **Languages**: SQL, Python/PySpark, VBA  
-- **Tools**: dbt, Databricks, BigQuery, Azure Data Factory, Google Cloud Platform
+- **Tools**: dbt, Databricks, BigQuery, Microsoft Excel, Azure Data Factory, Google Cloud Platform
 - **Visualization**: Power BI, Qlik Sense 
 
 ### 🎓 Certifications 
