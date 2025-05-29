@@ -1,12 +1,5 @@
 # Luis Maeda | Analytics Engineer & Data Analyst 🧑🏻‍💻
 
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115809197" alt="dbt Certified Developer Badge" width="120"/>
-  <img src="https://templates.images.credential.net/17101803123274097900116520533501.png" alt="Databricks Data Analyst Associate Badge" width="85"/>
-</div>
-
-
 **Analytics Engineer** with 6+ years of experience building data-driven solutions that empower businesses to make smarter decisions. Passionate about transforming raw data into strategic insights using modern data tools, cloud platforms, and visualization frameworks.
 
 ### 🛠️ Tools
@@ -16,6 +9,12 @@
 - **Visualization**: Power BI, Qlik Sense 
 
 ### 🎓 Certifications 
+
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115809197" alt="dbt Certified Developer Badge" width="120"/>
+  <img src="https://templates.images.credential.net/17101803123274097900116520533501.png" alt="Databricks Data Analyst Associate Badge" width="85"/>
+</div>
 
 - dbt Certified Developer  
 - dbt Fundamentals
