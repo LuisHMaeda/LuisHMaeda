@@ -2,8 +2,8 @@
 
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115809197" alt="dbt Certified Developer Badge" width="160"/>
-  <img src="https://templates.images.credential.net/17101803123274097900116520533501.png" alt="Databricks Data Analyst Associate Badge" width="110"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/115809197" alt="dbt Certified Developer Badge" width="120"/>
+  <img src="https://templates.images.credential.net/17101803123274097900116520533501.png" alt="Databricks Data Analyst Associate Badge" width="85"/>
 </div>
 
 
