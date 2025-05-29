@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Luis Maeda | Analytics Engineer & Data Analyst
+# Luis Maeda | Analytics Engineer & Data Analyst 🧑🏻‍💻
 
 **Analytics Engineer** with 6+ years of experience building data-driven solutions that empower businesses to make smarter decisions. Passionate about transforming raw data into strategic insights using modern data tools, cloud platforms, and visualization frameworks.
 
